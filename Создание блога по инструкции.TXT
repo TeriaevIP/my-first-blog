@@ -1,0 +1,2 @@
+По сайту дошёл до момента https://tutorial.djangogirls.org/ru/django_urls/
+
