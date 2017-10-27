@@ -18,5 +18,5 @@ Git:4tuborgaivodka
 Ещё ссылка на интерактивный курс по HTML CSS где сразу виден результат написанного кода :https://www.codecademy.com/courses/html-one-o-one/0/2
 
 Как можно запустить сайт? = команда python.exe manage.py runserver 0:8000 
-	Только эта команда не подходит - возникает ошибка ModuleNotFoundError: No module named 'django'
+	Только эта команда не подходит - возникает ошибка ModuleNotFoundError: No module named 'django'   = всё получается при запуске из вирт окруж
 		
